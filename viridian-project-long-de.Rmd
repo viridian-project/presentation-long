@@ -1,0 +1,151 @@
+---
+title: "Projekt Viridian"
+subtitle: "Netzwerk für ein faires, nachhaltiges, transparentes Wirtschaftssystem"
+author: "Markus Voge"
+logo: "images/viridian_logo_with_text.png"
+date: !r Sys.Date()
+output:
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Warum ich hier stehe
+
+Bild von Ölsanden
+
+- Fakt 1 zu Ölsanden
+- Fakt 2 zu Ölsanden
+
+## Warum ich hier stehe
+
+Bild von Unwetterkatastrophe (z.B. Wirbelsturm in Indonesien/Philippinen?)
+
+oder:
+
+Prognose für Dürre, z.B. aus Lietaer
+
+- Fakt 1 zu Ausmaß des Klimawandels
+- Fakt 2 zu verursachten Kosten
+
+## Warum ich hier stehe
+
+Bild von Rana Plaza-Unglück
+
+- Fakt 1 zu Rana Plaza
+- Fakt 2 zu Rana Plaza
+
+## Warum ich hier stehe
+
+(Evtl. weglassen.)
+
+Beispiel aus näherer Umgebung: Bild von güllesprühendem Traktor
+
+- Fakt 1 zu Nitratbelastung, z.B. Ausmaß
+- Fakt 2 zu Nitratbelastung, z.B. zu Kosten der Trinkwasserreinigung
+
+## Warum passiert das?
+
+Durch Unternehmen.
+
+Bild mit Geldscheinen
+
+- Je rücksichtsloser die Ausbeutung, umso größer der Profit (Rücksichtslosigkeit
+  spart Kosten -> Gewinnspanne größer)
+- Ausbeutung von Mensch und Natur
+- Unternehmen räumem ihren Müll nicht weg, nutzen Natur als kostenlose Deponie
+  für CO<sub>2</sub>, giftige Abwässer etc.
+- Unternehmen kümmern sich nicht um ihre Angestellten, verlangen ihnen zu viel ab,
+  bezahlen sie schlecht
+- Andere Menschen leiden darunter oder haben Kosten, um Schäden zu beseitigen
+- "Externe" Kosten sind hoch
+
+## Gerechtigkeit
+
+Bild mit Justizia
+
+"Verursacherprinzip"
+
+- Gerecht wäre: Wenn Verursacher die Verantwortung tragen müssten
+- Wenn externe Kosten von Verursachern bezahlt werden müssten, würde sich
+  rücksichtsloses Wirtschaften ökonomisch gar nicht lohnen
+- -> Verantwortungsvolles Wirtschaften setzt sich durch, da lukrativer
+- -> Schäden entstehen gar nicht erst, externe Kosten fallen nicht an
+
+## Politik könnte eingreifen, aber...
+
+Bild von gelangweilter Merkel, gelangweiltem Trump o.ä.
+
+Karikatur, die Korruption darstellt
+
+- Politik handelt nicht
+- Ist teils von schmutzigen Profiten beeinflusst (Lobbyismus)
+- Wir können uns auch nicht auf private Unternehmen verlassen, da sie
+  ökonomische Interessen verfolgen
+- (Selbst Audit-Unternehmen, Fairhandelsorganisationen, etc. können befangen sein)
+- Wir brauchen eine gemeinschaftliche, zivilgesellschaftliche, unabhängige Lösung
+- -> Ein "Commons"
+
+## Was können **wir** tun?
+
+Bild/Karikatur von "schlafendem Riesen"
+
+- Macht der Konsumenten ist "schlafender Riese", braucht mehr Information/Transparenz
+- Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
+  zwingt, die externen Kosten zu bezahlen (z.B. über eine alternative Währung)
+- Drei Schritte:
+  1. Transparenzplattform, die festlegt, welche Produkte gut oder schlecht sind
+  2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern)
+  3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert
+
+## Die Transparenzplattform: "Viridian"
+
+- Ein "Commons" wie Wikipedia
+- Unabhängig von politischen oder ökonomischen Interessen
+- Wird von keinem kontrolliert
+- Jede(r) kann beitragen und bearbeiten
+- Jede(r) kann Informationen einsehen
+<!-- - Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein -->
+- Über Blockchain dezentral organisiert und vor Manipulation geschützt
+- Über Peer-Review und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
+  geschützt
+- Schutz vor Sybil-Attacken durch Identitätscheck ("Permissioned Blockchain")
+
+## Die Transparenzplattform: "Viridian" {.smaller}
+
+- Bündelung sämtlicher Informationen: LCA, Berechnung ext. Kosten, CSR, NGO-Studien,
+  Investigativ-Berichte, Gerichtsurteile, Siegel, Whistleblower, ...
+- Teilnahme auf mehreren Ebenen: 
+    - Information (mit Quellen) hinzufügen
+    - Eine Information bewerten/interpretieren
+    - Eine Bewertung upvoten/downvoten (zustimmen/ablehnen) und dadurch gewichten
+    - (Nur Ergebnisse ansehen)
+- "Wer nur wenig Zeit hat, kann trotzdem partizipieren"
+- Informationen auf mehreren Ebenen:
+    - Produkt
+    - Produktkategorie
+    - Siegel
+    - Unternehmen
+- Informationen werden "vererbt"
+- "Wenn nur wenig bekannt ist, kann trotzdem im Groben begonnen werden"
+
+## So könnte es aussehen
+
+Bild vom Mockup
+
+## Schlussbemerkung
+
+- Schaffung der "Stiftung Warentest" durch einen Bundestagsbeschluss 1964:
+
+> "[...] zweitbeste Lösung [...]"
+
+- Es ist Zeit, die "beste Lösung" umzusetzen: Eine von der Zivilgesellschaft
+  ausgehende, demokratische Verbraucherinformationsplattform
+
+<div style="text-align: center;">
+
+![](images/viridian_logo_with_text.png){style="width: 80%;"}
+
+</div>
