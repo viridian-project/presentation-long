@@ -14,14 +14,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Warum ich hier stehe
 
-Bild von Ölsanden
+Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsanden
 
-- Fakt 1 zu Ölsanden
-- Fakt 2 zu Ölsanden
+<div>
+
+<div style="width: 48%; float: left;">
+
+![[Grasberg-Mine, </span><span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
+
+</div>
+
+<div style="width: 48%; float: right;">
+
+![[<span style="font-size: 80%;">Tagebau Hambach, </span><span style="font-size: 70%;">vom Aussichtspunkt Elsdorf-Angelsdorf gesehen, Johannes Fasolt (2006), gemeinfrei</span>](https://commons.wikimedia.org/wiki/File:Surface_Mining_Hambach_200800806.jpg)</span>](images/Surface_Mining_Hambach_200800806.jpg){style="width: 100%;"}
+
+</div>
+
+</div>
+
+- Fakt 1 zu Verschmutzung
+- Fakt 2 zu Verschmutzung
 
 ## Warum ich hier stehe
 
-Bild von Unwetterkatastrophe (z.B. Wirbelsturm in Indonesien/Philippinen?)
+Bild von Unwetterkatastrophe (z.B. Wirbelsturm in Indonesien/Philippinen? Bild aus der Süddeutschen?)
 
 oder:
 
@@ -32,7 +48,7 @@ Prognose für Dürre, z.B. aus Lietaer
 
 ## Warum ich hier stehe
 
-Bild von Rana Plaza-Unglück
+Bild von Rana Plaza-Unglück oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
 - Fakt 1 zu Rana Plaza
 - Fakt 2 zu Rana Plaza
@@ -48,7 +64,7 @@ Beispiel aus näherer Umgebung: Bild von güllesprühendem Traktor
 
 ## Warum passiert das?
 
-Durch Unternehmen.
+Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 Bild mit Geldscheinen
 
@@ -96,7 +112,7 @@ Bild/Karikatur von "schlafendem Riesen"
 - Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
   zwingt, die externen Kosten zu bezahlen (z.B. über eine alternative Währung)
 - Drei Schritte:
-  1. Transparenzplattform, die festlegt, welche Produkte gut oder schlecht sind
+  1. Transparenzplattform, auf der die Gemeinschaft bestimmt, welche Produkte gut oder schlecht sind
   2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern)
   3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert
 
@@ -105,8 +121,8 @@ Bild/Karikatur von "schlafendem Riesen"
 - Ein "Commons" wie Wikipedia
 - Unabhängig von politischen oder ökonomischen Interessen
 - Wird von keinem kontrolliert
-- Jede(r) kann beitragen und bearbeiten
 - Jede(r) kann Informationen einsehen
+- Jede(r) kann beitragen und bearbeiten
 <!-- - Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein -->
 - Über Blockchain dezentral organisiert und vor Manipulation geschützt
 - Über Peer-Review und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
