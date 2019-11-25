@@ -18,13 +18,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Wirtschaft
 
-<notes>
+![[<span style="font-size: 70%;">Foto von Renate Vanaga auf Unsplash (Ausschnitt)</span>](https://unsplash.com/photos/2pV2LwPVP9A)](images/renate-vanaga-2pV2LwPVP9A-unsplash.jpg){style="height: 400px;"}
+
+</center>
+
+<div class="notes">
 
 Wirtschaft schafft Wohlstand, ernährt uns, ist Lebensgrundlage, aber...
 
-</notes>
+</div>
 
-</center>
 
 ## Warum ich hier stehe
 
@@ -34,7 +37,7 @@ Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsand
 
 <div style="width: 48%; float: left;">
 
-![[Grasberg-Mine, </span><span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
+![[Grasberg-Mine, <span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
 
 </div>
 
@@ -46,7 +49,7 @@ Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsand
 
 </div>
 
-<notes>
+<div class="notes">
 
 ... sie kann auch viel Schaden anrichten.
 
@@ -61,7 +64,7 @@ CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
 - Fakt 1 zu Verschmutzung
 - Fakt 2 zu Verschmutzung
 
-</notes>
+</div>
 
 ## Warum ich hier stehe
 
@@ -71,23 +74,23 @@ oder:
 
 Prognose für Dürre, z.B. aus Lietaer
 
-<notes>
+<div class="notes">
 
 - Fakt 1 zu Ausmaß des Klimawandels
 - Fakt 2 zu verursachten Kosten
 
-</notes>
+</div>
 
 ## Warum ich hier stehe
 
 Bild von Rana Plaza-Unglück oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
-<notes>
+<div class="notes">
 
 - Fakt 1 zu Rana Plaza
 - Fakt 2 zu Rana Plaza
 
-</notes>
+</div>
 
 ## Warum ich hier stehe
 
@@ -99,14 +102,14 @@ Bild von güllesprühendem Traktor
 
 </center>
 
-<notes>
+<div class="notes">
 
 Beispiel aus näherer Umgebung:
 
 - Fakt 1 zu Nitratbelastung, z.B. Ausmaß
 - Fakt 2 zu Nitratbelastung, z.B. zu Kosten der Trinkwasserreinigung
 
-</notes>
+</div>
 
 ## Warum passiert das?
 
@@ -116,7 +119,7 @@ Bild mit Geldscheinen
 
 </center>
 
-<notes>
+<div class="notes">
 
 Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
@@ -130,7 +133,7 @@ Durch Unternehmen, die wenig Verantwortung tragen müssen.
 - Andere Menschen leiden darunter oder haben Kosten, um Schäden zu beseitigen
 - "Externe" Kosten sind hoch
 
-</notes>
+</div>
 
 ## Gerechtigkeit
 
@@ -142,7 +145,7 @@ Bild mit Justizia
 
 </center>
 
-<notes>
+<div class="notes">
 
 - Gerecht wäre: Wenn Verursacher die Verantwortung tragen müssten
 - Wenn externe Kosten von Verursachern bezahlt werden müssten, würde sich
@@ -150,7 +153,7 @@ Bild mit Justizia
 - -> Verantwortungsvolles Wirtschaften setzt sich durch, da lukrativer
 - -> Schäden entstehen gar nicht erst, externe Kosten fallen nicht an
 
-</notes>
+</div>
 
 ## Politik könnte eingreifen, aber...
 
@@ -158,7 +161,7 @@ Bild von gelangweilter Merkel, gelangweiltem Trump o.ä.
 
 Karikatur, die Korruption darstellt
 
-<notes>
+<div class="notes">
 
 - Politik handelt nicht
 - Ist teils von schmutzigen Profiten beeinflusst (Lobbyismus)
@@ -168,7 +171,7 @@ Karikatur, die Korruption darstellt
 - Wir brauchen eine gemeinschaftliche, zivilgesellschaftliche, unabhängige Lösung
 - -> Ein "Commons"
 
-</notes>
+</div>
 
 ## Was können **wir** tun?
 
@@ -178,7 +181,7 @@ Bild/Karikatur von "schlafendem Riesen"
 
 </center>
 
-<notes>
+<div class="notes">
 
 - Macht der Konsumenten ist "schlafender Riese", braucht mehr Information/Transparenz
 - Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
@@ -188,7 +191,7 @@ Bild/Karikatur von "schlafendem Riesen"
   2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern)
   3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert
 
-</notes>
+</div>
 
 ## Die Transparenzplattform: "Viridian"
 
@@ -235,6 +238,8 @@ Bild/Video vom Mockup
   ausgehende, demokratische Verbraucherinformationsplattform
 
 <center>
+
+https://www.viridian-project.org
 
 ![](images/viridian_logo_with_text.png){style="width: 80%;"}
 
