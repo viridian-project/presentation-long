@@ -14,6 +14,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Warum ich hier stehe
 
+<center>
+
+Wirtschaft
+
+<notes>
+
+Wirtschaft schafft Wohlstand, ernährt uns, ist Lebensgrundlage, aber...
+
+</notes>
+
+</center>
+
+## Warum ich hier stehe
+
 Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsanden
 
 <div>
@@ -32,8 +46,22 @@ Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsand
 
 </div>
 
+<notes>
+
+... sie kann auch viel Schaden anrichten.
+
+- Grasberg-Mine: Eine der größten Kupferminen der Welt(?). Große Belastung mit
+Schwermetallen, verseuchtes Flusswasser(?). XXX km$^2$ verseuchte Fläche(?).
+Ausmaß des Schadens kaum bekannt, da niemand auf das Gelände gelassen wird.
+Luftaufnahmen zeigen betongraue Fläche ohne Vegetation.
+- Hambach: Einer der größten Braunkohletagebaue der Welt(?). XXX km$^2$ zerstörte
+Fläche (Landschaft und Ortschaften unwiederbringlich verloren). Beitrag zu globalen
+CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
+ökologisch wertvollen Hambacher Waldes.
 - Fakt 1 zu Verschmutzung
 - Fakt 2 zu Verschmutzung
+
+</notes>
 
 ## Warum ich hier stehe
 
@@ -43,30 +71,54 @@ oder:
 
 Prognose für Dürre, z.B. aus Lietaer
 
+<notes>
+
 - Fakt 1 zu Ausmaß des Klimawandels
 - Fakt 2 zu verursachten Kosten
+
+</notes>
 
 ## Warum ich hier stehe
 
 Bild von Rana Plaza-Unglück oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
+<notes>
+
 - Fakt 1 zu Rana Plaza
 - Fakt 2 zu Rana Plaza
+
+</notes>
 
 ## Warum ich hier stehe
 
 (Evtl. weglassen.)
 
-Beispiel aus näherer Umgebung: Bild von güllesprühendem Traktor
+<center>
+
+Bild von güllesprühendem Traktor
+
+</center>
+
+<notes>
+
+Beispiel aus näherer Umgebung:
 
 - Fakt 1 zu Nitratbelastung, z.B. Ausmaß
 - Fakt 2 zu Nitratbelastung, z.B. zu Kosten der Trinkwasserreinigung
 
+</notes>
+
 ## Warum passiert das?
 
-Durch Unternehmen, die wenig Verantwortung tragen müssen.
+<center>
 
 Bild mit Geldscheinen
+
+</center>
+
+<notes>
+
+Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 - Je rücksichtsloser die Ausbeutung, umso größer der Profit (Rücksichtslosigkeit
   spart Kosten -> Gewinnspanne größer)
@@ -78,11 +130,19 @@ Bild mit Geldscheinen
 - Andere Menschen leiden darunter oder haben Kosten, um Schäden zu beseitigen
 - "Externe" Kosten sind hoch
 
+</notes>
+
 ## Gerechtigkeit
+
+<center>
 
 Bild mit Justizia
 
 "Verursacherprinzip"
+
+</center>
+
+<notes>
 
 - Gerecht wäre: Wenn Verursacher die Verantwortung tragen müssten
 - Wenn externe Kosten von Verursachern bezahlt werden müssten, würde sich
@@ -90,11 +150,15 @@ Bild mit Justizia
 - -> Verantwortungsvolles Wirtschaften setzt sich durch, da lukrativer
 - -> Schäden entstehen gar nicht erst, externe Kosten fallen nicht an
 
+</notes>
+
 ## Politik könnte eingreifen, aber...
 
 Bild von gelangweilter Merkel, gelangweiltem Trump o.ä.
 
 Karikatur, die Korruption darstellt
+
+<notes>
 
 - Politik handelt nicht
 - Ist teils von schmutzigen Profiten beeinflusst (Lobbyismus)
@@ -104,9 +168,17 @@ Karikatur, die Korruption darstellt
 - Wir brauchen eine gemeinschaftliche, zivilgesellschaftliche, unabhängige Lösung
 - -> Ein "Commons"
 
+</notes>
+
 ## Was können **wir** tun?
 
+<center>
+
 Bild/Karikatur von "schlafendem Riesen"
+
+</center>
+
+<notes>
 
 - Macht der Konsumenten ist "schlafender Riese", braucht mehr Information/Transparenz
 - Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
@@ -115,6 +187,8 @@ Bild/Karikatur von "schlafendem Riesen"
   1. Transparenzplattform, auf der die Gemeinschaft bestimmt, welche Produkte gut oder schlecht sind
   2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern)
   3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert
+
+</notes>
 
 ## Die Transparenzplattform: "Viridian"
 
@@ -149,19 +223,19 @@ Bild/Karikatur von "schlafendem Riesen"
 
 ## So könnte es aussehen
 
-Bild vom Mockup
+Bild/Video vom Mockup
 
 ## Schlussbemerkung
 
-- Schaffung der "Stiftung Warentest" durch einen Bundestagsbeschluss 1964:
+- Schaffung der "Stiftung Warentest" durch einen Bundestagsbeschluss 1964(?):
 
 > "[...] zweitbeste Lösung [...]"
 
-- Es ist Zeit, die "beste Lösung" umzusetzen: Eine von der Zivilgesellschaft
+- Zeit für die "beste Lösung": Eine von der Zivilgesellschaft
   ausgehende, demokratische Verbraucherinformationsplattform
 
-<div style="text-align: center;">
+<center>
 
 ![](images/viridian_logo_with_text.png){style="width: 80%;"}
 
-</div>
+</center>
