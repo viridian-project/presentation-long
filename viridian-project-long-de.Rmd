@@ -2,21 +2,25 @@
 title: "Projekt Viridian"
 subtitle: "Netzwerk für ein faires, nachhaltiges, transparentes Wirtschaftssystem"
 author: "Markus Voge"
-logo: "images/viridian_logo_with_text.png"
 date: !r Sys.Date()
 output:
-  ioslides_presentation: default
+  ioslides_presentation:
+    css: styles.css
+    logo: images/viridian_logo_with_text.png
 ---
+
+<!--
+<!-- Load fonts -- >
+<link href="https://fonts.googleapis.com/css?family=Oswald|Open+Sans+Condensed:700|Raleway" rel="stylesheet">
+-->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Warum ich hier stehe
+## Wirtschaft ist Lebensgrundlage...
 
 <center>
-
-Wirtschaft
 
 ![[<span style="font-size: 70%;">Foto von Renate Vanaga auf Unsplash (Ausschnitt)</span>](https://unsplash.com/photos/2pV2LwPVP9A)](images/renate-vanaga-2pV2LwPVP9A-unsplash.jpg){style="height: 400px;"}
 
@@ -24,16 +28,14 @@ Wirtschaft
 
 <div class="notes">
 
-Wirtschaft schafft Wohlstand, ernährt uns, ist Lebensgrundlage, aber...
+Wirtschaft (insbes. Landwirtschaft) ist lebensnotwendig, ernährt uns, schafft Wohlstand und Lebensqualität, auch über das bloße Überleben hinaus...
 
 </div>
 
 
-## Warum ich hier stehe
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
 
-Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsanden
-
-<div>
+<center style="margin-top: -50px;">
 
 <div style="width: 48%; float: left;">
 
@@ -47,7 +49,7 @@ Bild von Open Pit Mine (z.B. Kupfer, Grasberg)/Tagebau (z.B. Braunkohle)/Ölsand
 
 </div>
 
-</div>
+</center>
 
 <div class="notes">
 
@@ -66,13 +68,80 @@ CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
 
 </div>
 
-## Warum ich hier stehe
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
 
-Bild von Unwetterkatastrophe (z.B. Wirbelsturm in Indonesien/Philippinen? Bild aus der Süddeutschen?)
+<center style="margin-top: -50px;">
 
-oder:
+<div style="width: 48%; float: left;">
+
+Vorher:
+
+![<span style="font-size: 70%;">Pristine Canadian boreal forest photographed by [...] Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-11.jpg){style="width: 100%;"}
+
+</div>
+
+<div style="width: 48%; float: right;">
+
+Nachher:
+
+![<span style="font-size: 70%;">Tar sands mining region in the Canadian boreal forest photographed by Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-7142.jpg){style="width: 100%;"}
+
+</div>
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+
+<center style="margin-top: -50px;">
+
+![[<span style="font-size: 80%;">Albian Pit, Muskeg river open pit bitumen mine, Fort McKay (Louis Helbig)</span>](https://www.theguardian.com/environment/gallery/2015/aug/03/canadas-tar-sands-landscape-from-the-air-in-pictures#img-3)](images/oil_sands.jpg){style="width: 80%;"}
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+
+<center style="margin-top: -50px;">
+
+![[<span style="font-size: 70%;">A swath of boreal forest is stripped away to reveal the bitumen-laced ground at the Fort Hills Suncor oil sands site near Fort McKay, Alberta (Ian Willms)</span>](https://www.nationalgeographic.com/environment/2019/04/alberta-canadas-tar-sands-is-growing-but-indigenous-people-fight-back/#)](https://www.nationalgeographic.com/content/dam/environment/2019/04/oil-sands-canada/15-oil-sands-canada.adapt.1900.1.jpg){style="width: 80%;"}
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+
+<center style="margin-top: -50px;">
+
+![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/58003213@N00">Cayobo</a> from Key West, The Conch Republic - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cayobo/48667030183/">Hurricane Dorian Eye</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=81889943">Link</a>](images/Dorian_2019-09-02_1522Z_(Hurricane_Eye).jpg){style="width: 80%;"}
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+
+<center style="margin-top: -50px;">
+
+![<span style="font-size: 70%;">"Anatomie einer Katastrophe -- Was die Klimakrise wirklich bedeutet", [Süddeutsche Zeitung (Sabrina Ebitsch u.a., 2019)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_19_data_background_image_desktopw2880h2880q70-7f648d7643d1cdff.jpg){style="width: 70%;"}
+
+<!-- Auch möglich: Sommer 2019, "In Brasilien stand das Amazonasgebiet in Flammen, Hunderttausende Hektar Wald und Weiden verbrannten."
+https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_22_data_background_image_desktopw2880h2880q70-ec37300df1f5b193.jpg
+von https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/
+-->
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+
+<center style="margin-top: -50px;">
+
+![<span style="font-size: 70%;">["Superstorm Sandy"](https://amazonsday.blogspot.com/2015/03/blog-post_16.html), von sonora, [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)](images/024737-superstorm-sandy.jpg)
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+
+<center style="margin-top: -50px;">
 
 Prognose für Dürre, z.B. aus Lietaer
+
+</center>
 
 <div class="notes">
 
@@ -81,9 +150,23 @@ Prognose für Dürre, z.B. aus Lietaer
 
 </div>
 
-## Warum ich hier stehe
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
 
-Bild von Rana Plaza-Unglück oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
+<center style="margin-top: -50px;">
+
+![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/40831205@N02">rijans</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/40831205@N02/8731789941">Dhaka Savar Building Collapse</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26051590">Link</a>](images/Dhaka_Savar_Building_Collapse.jpg){style="width: 80%;"}
+
+</center>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
+
+<center style="margin-top: -50px;">
+
+![<span style="font-size: 70%;">["PER NON DIMENTICARE"](http://www.scuolesenzapermesso.org/a-un-anno-dalla-tragedia-di-rana-plaza-in-cui-perirono-1127-persone-per-non-dimenticare/) ("Um nicht zu vergessen -- Ein Jahr nach der Tragödie von Rana Plaza"), von scuolabinari, modifiziert, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US)](images/Rana-Plaza-4.jpg){style="width: 90%;"}
+
+</center>
+
+oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
 <div class="notes">
 
@@ -92,7 +175,7 @@ Bild von Rana Plaza-Unglück oder Brand bei Ali Enterprises, z.B. aus Fallbeispi
 
 </div>
 
-## Warum ich hier stehe
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Nitratbelastung</span>
 
 (Evtl. weglassen.)
 
