@@ -1,0 +1,15 @@
+/* Title slide logo: insert the actual size of the image */
+.gdbar img {
+  width: 400px !important;
+  height: 128px !important;
+}
+
+.gdbar {
+  width: 500px !important;
+  height: 150px !important;
+}
+
+/* Hide the logo in slide footer: */
+slides > slide:not(.nobackground)::before {
+    background: none;
+}
