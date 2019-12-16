@@ -9,8 +9,7 @@ output:
     logo: images/viridian_logo_with_text.png
 ---
 
-<!--
-<!-- Load fonts -- >
+<!-- Load fonts
 <link href="https://fonts.googleapis.com/css?family=Oswald|Open+Sans+Condensed:700|Raleway" rel="stylesheet">
 -->
 
@@ -32,14 +31,21 @@ Wirtschaft (insbes. Landwirtschaft) ist lebensnotwendig, ernährt uns, schafft W
 
 </div>
 
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Überschreitung der planetaren Grenzen</span>
+
+<center>
+
+![<span style="font-size: 70%;">"Beyond the boundary", Fig. 1 aus dem Nature-Artikel ["A safe operating space for humanity"](https://www.nature.com/articles/461472a) (Rockström et al. 2009) </span>](images/Rockström_et_al_2009_Nature_safe_operating_space_for_humanity.jpg){style="width: 65%;"}
+
+</center>
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 <div style="width: 48%; float: left;">
 
-![[Grasberg-Mine, <span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
+![[<span style="font-size: 80%;">Grasberg-Mine, </span><span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
 
 </div>
 
@@ -63,6 +69,7 @@ Luftaufnahmen zeigen betongraue Fläche ohne Vegetation.
 Fläche (Landschaft und Ortschaften unwiederbringlich verloren). Beitrag zu globalen
 CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
 ökologisch wertvollen Hambacher Waldes.
+- Gesellschaftliche Kosten der Braunkohle im Jahr 2015 mehr als 15 Mrd. € [Wronski und Fiedler 2015](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/kosten-braunkohle-foes-greenpeace-20151110_0.pdf)
 - Fakt 1 zu Verschmutzung
 - Fakt 2 zu Verschmutzung
 
@@ -70,7 +77,7 @@ CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 <div style="width: 48%; float: left;">
 
@@ -84,75 +91,104 @@ Vorher:
 
 Nachher:
 
-![<span style="font-size: 70%;">Tar sands mining region in the Canadian boreal forest photographed by Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-7142.jpg){style="width: 100%;"}
+![<span style="font-size: 80%;">Ölsandabbau:</span> <span style="font-size: 70%;">Tar sands mining region in the Canadian boreal forest photographed by Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-7142.jpg){style="width: 100%;"}
 
 </div>
 
 </center>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+<!--
 
-<center style="margin-top: -50px;">
+  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+  
+  <center>
+  
+  ![[<span style="font-size: 80%;">Albian Pit, Muskeg river open pit bitumen mine, Fort McKay (Louis Helbig)</span>](https://www.theguardian.com/environment/gallery/2015/aug/03/canadas-tar-sands-landscape-from-the-air-in-pictures#img-3)](images/oil_sands.jpg){style="width: 80%;"}
+  
+  </center>
+  
+  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+  
+  <center>
+  
+  ![[<span style="font-size: 70%;">A swath of boreal forest is stripped away to reveal the bitumen-laced ground at the Fort Hills Suncor oil sands site near Fort McKay, Alberta (Ian Willms)</span>](https://www.nationalgeographic.com/environment/2019/04/alberta-canadas-tar-sands-is-growing-but-indigenous-people-fight-back/#)](https://www.nationalgeographic.com/content/dam/environment/2019/04/oil-sands-canada/15-oil-sands-canada.adapt.1900.1.jpg){style="width: 80%;"}
+  
+  </center>
 
-![[<span style="font-size: 80%;">Albian Pit, Muskeg river open pit bitumen mine, Fort McKay (Louis Helbig)</span>](https://www.theguardian.com/environment/gallery/2015/aug/03/canadas-tar-sands-landscape-from-the-air-in-pictures#img-3)](images/oil_sands.jpg){style="width: 80%;"}
-
-</center>
-
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
-
-<center style="margin-top: -50px;">
-
-![[<span style="font-size: 70%;">A swath of boreal forest is stripped away to reveal the bitumen-laced ground at the Fort Hills Suncor oil sands site near Fort McKay, Alberta (Ian Willms)</span>](https://www.nationalgeographic.com/environment/2019/04/alberta-canadas-tar-sands-is-growing-but-indigenous-people-fight-back/#)](https://www.nationalgeographic.com/content/dam/environment/2019/04/oil-sands-canada/15-oil-sands-canada.adapt.1900.1.jpg){style="width: 80%;"}
-
-</center>
+-->
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 ![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/58003213@N00">Cayobo</a> from Key West, The Conch Republic - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cayobo/48667030183/">Hurricane Dorian Eye</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=81889943">Link</a>](images/Dorian_2019-09-02_1522Z_(Hurricane_Eye).jpg){style="width: 80%;"}
 
 </center>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+<!--
 
-<center style="margin-top: -50px;">
+  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+  
+  <center>
+  
+  ![<span style="font-size: 70%;">"Anatomie einer Katastrophe -- Was die Klimakrise wirklich bedeutet", [Süddeutsche Zeitung (Sabrina Ebitsch u.a., 2019)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_19_data_background_image_desktopw2880h2880q70-7f648d7643d1cdff.jpg){style="width: 70%;"}
+  
+  <!-- Auch möglich: Sommer 2019, "In Brasilien stand das Amazonasgebiet in Flammen, Hunderttausende Hektar Wald und Weiden verbrannten."
+  https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_22_data_background_image_desktopw2880h2880q70-ec37300df1f5b193.jpg
+  von https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/
+  
+  </center>
 
-![<span style="font-size: 70%;">"Anatomie einer Katastrophe -- Was die Klimakrise wirklich bedeutet", [Süddeutsche Zeitung (Sabrina Ebitsch u.a., 2019)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_19_data_background_image_desktopw2880h2880q70-7f648d7643d1cdff.jpg){style="width: 70%;"}
-
-<!-- Auch möglich: Sommer 2019, "In Brasilien stand das Amazonasgebiet in Flammen, Hunderttausende Hektar Wald und Weiden verbrannten."
-https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_22_data_background_image_desktopw2880h2880q70-ec37300df1f5b193.jpg
-von https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/
 -->
 
-</center>
-
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 ![<span style="font-size: 70%;">["Superstorm Sandy"](https://amazonsday.blogspot.com/2015/03/blog-post_16.html), von sonora, [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)](images/024737-superstorm-sandy.jpg)
 
 </center>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise (auch hier bei uns!)</span>
 
-<center style="margin-top: -50px;">
+<center>
 
-Prognose für Dürre, z.B. aus Lietaer
+![<span style="font-size: 80%;">[Deutschland auf Platz 3](https://germanwatch.org/de/17330) im [Klima-Risiko-Index (KRI)](https://germanwatch.org/kri) von Germanwatch e.V.</span>](images/klima-risiko-index_2020_top10.png){style="width: 100%;"}
 
 </center>
 
 <div class="notes">
 
-- Fakt 1 zu Ausmaß des Klimawandels
-- Fakt 2 zu verursachten Kosten
+- 
+
+</div>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+
+> "Climate models project increased aridity in the 21<sup>st</sup> century over most of Africa, southern Europe and the Middle East [...]" <span style="font-size: 70%;">(Aiguo Dai, 2010, "Drought under Global Warming")</span>
+
+<!-- , most of the Americas, Australia, and Southeast Asia. -->
+
+<!-- WIREs Clim Change, 2011, 2, 45--65 -->
+
+<center>
+
+<!-- Prognose für Dürre, z.B. aus Lietaer: PDSI (Palmer Drought Severity Index), Aiguo Dai: "Drought under Global Warming: A Review" -->
+
+![](images/Dai_drought.jpg){style="width: 100%;"}
+
+</center>
+
+<div class="notes">
+
+- Knapp gesagt: Es wird trockener!
+- PDSI = Palmer Drought Severity Index
 
 </div>
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 ![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/40831205@N02">rijans</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/40831205@N02/8731789941">Dhaka Savar Building Collapse</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26051590">Link</a>](images/Dhaka_Savar_Building_Collapse.jpg){style="width: 80%;"}
 
@@ -160,13 +196,11 @@ Prognose für Dürre, z.B. aus Lietaer
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
 
-<center style="margin-top: -50px;">
+<center>
 
 ![<span style="font-size: 70%;">["PER NON DIMENTICARE"](http://www.scuolesenzapermesso.org/a-un-anno-dalla-tragedia-di-rana-plaza-in-cui-perirono-1127-persone-per-non-dimenticare/) ("Um nicht zu vergessen -- Ein Jahr nach der Tragödie von Rana Plaza"), von scuolabinari, modifiziert, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US)](images/Rana-Plaza-4.jpg){style="width: 90%;"}
 
 </center>
-
-oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
 <div class="notes">
 
@@ -175,13 +209,26 @@ oder Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
 
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Nitratbelastung</span>
-
-(Evtl. weglassen.)
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
 
 <center>
 
-Bild von güllesprühendem Traktor
+Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
+
+</center>
+
+<div class="notes">
+
+- Fakt 1 zu Ali Enterprises
+- Fakt 2 zu Ali Enterprises
+
+</div>
+
+## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Tierhaltung: Nitratbelastung und multiresistente Keime</span>
+
+<center>
+
+![<span style="font-size: 70%;">Bild von <a href="https://pixabay.com/de/users/Myriams-Fotos-1627417/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Myriam Zilles</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Pixabay</a></span>](images/gullefa-1302596_1280.jpg){style="width: 80%"}
 
 </center>
 
@@ -189,8 +236,15 @@ Bild von güllesprühendem Traktor
 
 Beispiel aus näherer Umgebung:
 
-- Fakt 1 zu Nitratbelastung, z.B. Ausmaß
-- Fakt 2 zu Nitratbelastung, z.B. zu Kosten der Trinkwasserreinigung
+- Gesellschaftliche Folgekosten durch die Tierhaltung in Deutschland: allein
+  durch Antibiotikaresistenzen und Stickstoffdüngung jährlich über 10 Mrd. Euro
+  (Gaugler und Michalke 2017, doi: 10.14512/gaia.26.2.2, Zus.fass.:
+  https://www.tollwood.de/presse/pressekonferenz-15-09-2016/, s.a.
+  http://www.bzfe.de/inhalt/true-cost-wahre-kosten-32236.html)
+- Umgelegt auf Lebensmittelpreise: fast 10% höherer Preis bei konventionellen
+  tierischen Produkten
+- Nicht inkludiert: Bodenabbau, Regenwaldvernichtung, Verlust der Biodiversität
+  und Klimabelastung
 
 </div>
 
@@ -198,7 +252,7 @@ Beispiel aus näherer Umgebung:
 
 <center>
 
-Bild mit Geldscheinen
+![<span style="font-size: 70%;">Photo by [Robert Anasch](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</span>](images/robert-anasch-JjriqriwikE-unsplash.jpg){style="width: 80%;"}
 
 </center>
 
@@ -207,9 +261,9 @@ Bild mit Geldscheinen
 Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 - Je rücksichtsloser die Ausbeutung, umso größer der Profit (Rücksichtslosigkeit
-  spart Kosten -> Gewinnspanne größer)
+  spart Kosten $\rightarrow$ Gewinnspanne größer)
 - Ausbeutung von Mensch und Natur
-- Unternehmen räumem ihren Müll nicht weg, nutzen Natur als kostenlose Deponie
+- Unternehmen räumen ihren Müll nicht weg, nutzen Natur als kostenlose Deponie
   für CO<sub>2</sub>, giftige Abwässer etc.
 - Unternehmen kümmern sich nicht um ihre Angestellten, verlangen ihnen zu viel ab,
   bezahlen sie schlecht
@@ -222,9 +276,11 @@ Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 <center>
 
-Bild mit Justizia
+...wäre, wenn das ["Verursacherprinzip"](https://de.wikipedia.org/wiki/Verursacherprinzip) gelten würde. Wer verschmutzt, muss für die Konsequenzen aufkommen. Das würde Verschmutzung von vornherein unattraktiv machen.
 
-"Verursacherprinzip"
+![<span style="font-size: 70%;">[Justitia](https://www.flickr.com/photos/foto_db/19138839664), von [Tim Reckmann](https://www.flickr.com/photos/foto_db/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</span>](images/justitia_tim_reckmann.jpg){style="width: 70%;"}
+
+$\rightarrow$ Externalisierte Kosten einpreisen!
 
 </center>
 
@@ -233,14 +289,21 @@ Bild mit Justizia
 - Gerecht wäre: Wenn Verursacher die Verantwortung tragen müssten
 - Wenn externe Kosten von Verursachern bezahlt werden müssten, würde sich
   rücksichtsloses Wirtschaften ökonomisch gar nicht lohnen
-- -> Verantwortungsvolles Wirtschaften setzt sich durch, da lukrativer
-- -> Schäden entstehen gar nicht erst, externe Kosten fallen nicht an
+- $\rightarrow$ Verantwortungsvolles Wirtschaften setzt sich durch, da lukrativer
+- $\rightarrow$ Schäden entstehen gar nicht erst, externe Kosten fallen nicht an
+- Zitat [Andrew McAfee](https://www.econtalk.org/andrew-mcafee-on-more-from-less/):
+  "Corporations run from cost like gazelle from a lion."
 
 </div>
 
 ## Politik könnte eingreifen, aber...
 
-Bild von gelangweilter Merkel, gelangweiltem Trump o.ä.
+
+![<span style="font-size: 70%;">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/angela_muede.jpg)
+
+Möglichkeiten: z.B. Besteuerung, Grenzwerte für Verschmutzung, Verbote, Zertifikatehandel, ...
+
+Es passiert aber nichts... oder es dauert zu lange.
 
 Karikatur, die Korruption darstellt
 
@@ -278,34 +341,38 @@ Bild/Karikatur von "schlafendem Riesen"
 
 ## Die Transparenzplattform: "Viridian"
 
-- Ein "Commons" wie Wikipedia
-- Unabhängig von politischen oder ökonomischen Interessen
+- Ein **"Commons"** wie Wikipedia
+- **Unabhängig** von politischen oder ökonomischen Interessen
 - Wird von keinem kontrolliert
 - Jede(r) kann Informationen einsehen
 - Jede(r) kann beitragen und bearbeiten
 <!-- - Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein -->
-- Über Blockchain dezentral organisiert und vor Manipulation geschützt
-- Über Peer-Review und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
+- Über **Blockchain** dezentral organisiert und vor Manipulation geschützt
+- Über **Peer-Review** und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
   geschützt
-- Schutz vor Sybil-Attacken durch Identitätscheck ("Permissioned Blockchain")
+- **Schutz** vor Sybil-Attacken durch Identitätscheck ("Permissioned Blockchain")
 
-## Die Transparenzplattform: "Viridian" {.smaller}
+## Die Transparenzplattform: "Viridian"
 
-- Bündelung sämtlicher Informationen: LCA, Berechnung ext. Kosten, CSR, NGO-Studien,
+- **Bündelung** sämtlicher Informationen: LCA, Berechnung ext. Kosten, CSR, NGO-Studien,
   Investigativ-Berichte, Gerichtsurteile, Siegel, Whistleblower, ...
-- Teilnahme auf mehreren Ebenen: 
-    - Information (mit Quellen) hinzufügen
-    - Eine Information bewerten/interpretieren
-    - Eine Bewertung upvoten/downvoten (zustimmen/ablehnen) und dadurch gewichten
-    - (Nur Ergebnisse ansehen)
-- "Wer nur wenig Zeit hat, kann trotzdem partizipieren"
-- Informationen auf mehreren Ebenen:
+- **Teilnahme auf mehreren Ebenen:**
+    - **Hoher Aufwand:** Information (mit Quellen) hinzufügen
+    - **Mittlerer Aufwand:** Eine Information bewerten/interpretieren
+    - **Geringer Aufwand:** Eine Bewertung upvoten/downvoten (zustimmen/ablehnen) und dadurch gewichten
+    - **Kein Aufwand:** Nur Ergebnisse ansehen
+- *Wer nur wenig Zeit hat, kann trotzdem partizipieren*
+
+## Die Transparenzplattform: "Viridian"
+
+- **Informationen auf mehreren Ebenen:**
     - Produkt
     - Produktkategorie
     - Siegel
     - Unternehmen
-- Informationen werden "vererbt"
-- "Wenn nur wenig bekannt ist, kann trotzdem im Groben begonnen werden"
+- Informationen werden **"vererbt"**
+- *Wenn nur wenig bekannt ist, kann trotzdem im Groben begonnen werden*
+- Dann immer weiter verfeinern und mit spezifischen Informationen anreichern!
 
 ## So könnte es aussehen
 
@@ -313,7 +380,7 @@ Bild/Video vom Mockup
 
 ## Schlussbemerkung
 
-- Schaffung der "Stiftung Warentest" durch einen Bundestagsbeschluss 1964(?):
+- Schaffung der "Stiftung Warentest" durch einen Bundestagsbeschluss im Dezember 1964:
 
 > "[...] zweitbeste Lösung [...]"
 
