@@ -165,7 +165,9 @@ Nachher:
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
 
-> "Climate models project increased aridity in the 21<sup>st</sup> century over most of Africa, southern Europe and the Middle East [...]" <span style="font-size: 70%;">(Aiguo Dai, 2010, "Drought under Global Warming")</span>
+> "Climate models project increased aridity in the 21<sup>st</sup> century over most of Africa,
+> southern Europe and the Middle East [...]"
+> <span style="font-size: 70%;">Aiguo Dai (2010): "Drought under Global Warming"</span>
 
 <!-- , most of the Americas, Australia, and Southeast Asia. -->
 
@@ -298,14 +300,41 @@ $\rightarrow$ Externalisierte Kosten einpreisen!
 
 ## Politik könnte eingreifen, aber...
 
+<div style="display: flex;">
 
+<div style="width: 30%; margin-right: 5%;">
+
+<!--
 ![<span style="font-size: 70%;">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/angela_muede.jpg)
+-->
 
-Möglichkeiten: z.B. Besteuerung, Grenzwerte für Verschmutzung, Verbote, Zertifikatehandel, ...
+![<span style="font-size: 70%;">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/merkel_scham.jpg){style="width: 100%;"}
+
+<!-- Oder:
+https://jacobjung.wordpress.com/2011/07/22/angela-merkel-%E2%80%9Edeutschland-geht-es-so-gut-wie-lange-nicht%E2%80%9C/
+-->
+
+</div>
+
+<div style="width: 30%; margin-right: 5%;">
+
+![<span style="font-size: 70%;">[A Quiet Walk](https://aquietwalk.com/2017/03/13/a-small-sad-little-man/), [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</span>](images/donald_trump65.jpg){style="width: 100%;"}
+
+</div>
+
+<div style="width: 30%;">
+
+![<span style="font-size: 50%;">Based on User:Mark Miller, User:Herostratus and User:Masur [Public domain], <a href="https://commons.wikimedia.org/wiki/File:A_no_money_handshake.svg">via Wikimedia Commons</a></span>](images/A_money_handshake.svg){style="width: 100%;"}
+
+</div>
+
+</div>
+
+**Möglichkeiten:** Besteuerung, Grenzwerte für Verschmutzung, Verbote, Zertifikatehandel, ...
 
 Es passiert aber nichts... oder es dauert zu lange.
 
-Karikatur, die Korruption darstellt
+<div style="margin-top: -20px;"></div>
 
 <div class="notes">
 
@@ -323,7 +352,9 @@ Karikatur, die Korruption darstellt
 
 <center>
 
-Bild/Karikatur von "schlafendem Riesen"
+Wir Verbraucher sind ein "schlafender Riese"
+
+![<span style="font-size: 70%;">Av <a href="https://en.wikipedia.org/wiki/nn:Theodor_Kittelsen" class="extiw" title="w:nn:Theodor Kittelsen">Theodor Kittelsen</a> – <a rel="nofollow" class="external free" href="http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html">http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html</a>, Offentlig eiendom, <a href="https://commons.wikimedia.org/w/index.php?curid=122555">Lenke</a></span>](images/Trollet_som_grunner_på_hvor_gammelt_det_er.jpg){style="width: 40%;"}
 
 </center>
 
@@ -344,8 +375,8 @@ Bild/Karikatur von "schlafendem Riesen"
 - Ein **"Commons"** wie Wikipedia
 - **Unabhängig** von politischen oder ökonomischen Interessen
 - Wird von keinem kontrolliert
-- Jede(r) kann Informationen einsehen
-- Jede(r) kann beitragen und bearbeiten
+- Jede*r kann Informationen einsehen
+- Jede*r kann beitragen und bearbeiten
 <!-- - Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein -->
 - Über **Blockchain** dezentral organisiert und vor Manipulation geschützt
 - Über **Peer-Review** und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
@@ -354,7 +385,7 @@ Bild/Karikatur von "schlafendem Riesen"
 
 ## Die Transparenzplattform: "Viridian"
 
-- **Bündelung** sämtlicher Informationen: LCA, Berechnung ext. Kosten, CSR, NGO-Studien,
+- **Bündelung** sämtlicher Informationen: Berechnung ext. Kosten, LCA, CSR, NGO-Studien,
   Investigativ-Berichte, Gerichtsurteile, Siegel, Whistleblower, ...
 - **Teilnahme auf mehreren Ebenen:**
     - **Hoher Aufwand:** Information (mit Quellen) hinzufügen
