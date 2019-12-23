@@ -39,6 +39,34 @@ Wirtschaft (insbes. Landwirtschaft) ist lebensnotwendig, ernährt uns, schafft W
 
 </center>
 
+<div class="notes">
+
+Es werden in neun (zehn) miteinander verbundenen Systemen planetare (biophysikalische)
+Grenzen definiert, deren Überschreiten katastrophale Konsequenzen haben könnte.
+
+Bei drei der zehn Systeme hat die Menschheit den sicheren Bereich bereits
+überschritten: **Klimawandel** (aktuell mit 410 ppm CO$_2$ 17% oberhalb der Grenze
+von 350 ppm, 46% über prä-industriellem Wert von 280 ppm),
+**Verlust der Artenvielfalt** (mehr als 10-fach über der Grenze, >100 anstatt
+10 species per million species per year) und Eingriff in den **Stickstoffkreislauf**
+(mit 121 Mio. t/a aus der Atm. entferntem N$_2$ Faktor 3,5 über der Grenze von 35 Mio t/a).
+
+Bei vier weiteren -- **Süßwasserverbrauch**, **Landnutzungsänderung**,
+**Ozeanversäuerung** und Eingriff in den **Phosphorkreislauf** -- steht ein Überschreiten
+der Grenze möglicherweise bald bevor.
+
+<!--
+410 ppm / 350 ppm = 1.17
+410 ppm / 280 ppm = 1.46
+-->
+
+<!--
+Update paper 2015: https://science.sciencemag.org/content/347/6223/1259855
+Landing page: https://www.stockholmresilience.org/planetary-boundaries
+-->
+
+</div>
+
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
 
 <center>
@@ -58,21 +86,51 @@ Wirtschaft (insbes. Landwirtschaft) ist lebensnotwendig, ernährt uns, schafft W
 </center>
 
 <div class="notes">
+<div style="font-size: 90%;">
 
-... sie kann auch viel Schaden anrichten.
+- Grasberg-Mine ([1](https://en.wikipedia.org/wiki/Grasberg_mine), [2](https://de.wikipedia.org/wiki/Grasberg-Mine)): größte Gold- und
+  zweitgrößte Kupfermine der Welt in Papua, Indonesien. Hat die weltweit
+  [niedrigsten Förderkosten](https://web.archive.org/web/20090219085455/http://www.natural-resources.org/minerals/cd/docs/mmsd/topics/068c_mftf-j.pdf).
+  Produziert täglich bis zu
+  [700.000 Tonnen](https://www.nytimes.com/2005/12/27/world/asia/below-a-mountain-of-wealth-a-river-of-waste.html)
+  giftige Abwässer ("Tailings", schlammiger Abraum), belastet v.a. mit Kupfer.
+  [Flussentsorgung](https://web.archive.org/web/20090219085455/http://www.natural-resources.org/minerals/cd/docs/mmsd/topics/068c_mftf-j.pdf),
+  weil dies am billigsten ist. Vorhalteeinrichtungen sind aus geologischen Gründen schwer zu errichten
+  ([Quelle](https://web.archive.org/web/20090219085455/http://www.natural-resources.org/minerals/cd/docs/mmsd/topics/068c_mftf-j.pdf)).
+  Ein weiteres Problem: saure Haldenwässer
+  ([Acid Mine Drainage](https://en.wikipedia.org/wiki/Acid_mine_drainage)).
+  Nahezu alles Leben ist aus den Flüssen und Feuchtgebieten in der Nähe der Mine
+  verschwunden
+  ([Quelle](https://www.nytimes.com/2005/12/27/world/asia/below-a-mountain-of-wealth-a-river-of-waste.html)).
+  Mindestens 130 km$^2$ Fläche verseucht
+  ([Quelle](https://web.archive.org/web/20090219085455/http://www.natural-resources.org/minerals/cd/docs/mmsd/topics/068c_mftf-j.pdf)).
+  <!-- Hierfür gibt es auf der dt. Wikipedia keine QUelle:
+  Ausmaß des Schadens kaum bekannt, da niemand auf das Gelände gelassen wird.
+  Luftaufnahmen zeigen betongraue Fläche ohne Vegetation.
+  -->
+- Braunkohle-Tagebau: Nutzung der Braunkohle v.a. für Verstromung.
+  [Laut Daten der EU-Kommission](https://www.sueddeutsche.de/wirtschaft/studie-deutsche-kraftwerke-gehoeren-zu-den-schmutzigsten-in-ganz-europa-1.2930237)
+  stehen 4 der 5 KWs in der EU mit dem höchsten CO$_2$-Ausstoß in Deutschland:
+  Plätze 2 bis 5. Über 5000 ha (Hambach, gesamt?) in
+  Anspruch genommene Fläche (Landschaft und Ortschaften unwiederbringlich verloren).
+  Laut UBA: Ausstoß dt. Kraftwerke 2013: 5 t Quecksilber, 1500 kg Blei, 1200 kg Arsen,
+  700 kg Cadmium
+  ([Quelle](https://www.sueddeutsche.de/wissen/umweltgifte-kohlekraftwerke-stossen-tonnenweise-giftiges-quecksilber-aus-1.2804683)).
+  Die Schwermetalle sind hochgiftig, könnten aber zu großen Teilen gefiltert werden.
+  <!--
+  Quecksilber kann bei
+  Säuglingen und Kleinkindern zu Gehirnschäden führen. Auch bei Erwachsenen
+  krebserregend und nervenschädigend. Moderne Filtertechnik kann rund 85 Prozent
+  der Quecksilber-Emissionen großer Braun- und Steinkohlekraftwerke vermeiden.
+  -->
+  <!--
+  Beitrag zu globalen CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?).
+  Zerstörung des ökologisch wertvollen Hambacher Waldes.
+  -->
+- Gesellschaftliche Kosten der Braunkohle im Jahr 2015 mehr als 15 Mrd. €
+  [Wronski und Fiedler 2015](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/kosten-braunkohle-foes-greenpeace-20151110_0.pdf)
 
-- Grasberg-Mine: Eine der größten Kupferminen der Welt(?). Große Belastung mit
-Schwermetallen, verseuchtes Flusswasser(?). XXX km$^2$ verseuchte Fläche(?).
-Ausmaß des Schadens kaum bekannt, da niemand auf das Gelände gelassen wird.
-Luftaufnahmen zeigen betongraue Fläche ohne Vegetation.
-- Hambach: Einer der größten Braunkohletagebaue der Welt(?). XXX km$^2$ zerstörte
-Fläche (Landschaft und Ortschaften unwiederbringlich verloren). Beitrag zu globalen
-CO$_2$-Emissionen durch das rheinische Braunkohlerevier: 2%(?). Zerstörung des
-ökologisch wertvollen Hambacher Waldes.
-- Gesellschaftliche Kosten der Braunkohle im Jahr 2015 mehr als 15 Mrd. € [Wronski und Fiedler 2015](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/kosten-braunkohle-foes-greenpeace-20151110_0.pdf)
-- Fakt 1 zu Verschmutzung
-- Fakt 2 zu Verschmutzung
-
+</div>
 </div>
 
 ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
@@ -153,13 +211,19 @@ Nachher:
 
 <center>
 
-![<span style="font-size: 80%;">[Deutschland auf Platz 3](https://germanwatch.org/de/17330) im [Klima-Risiko-Index (KRI)](https://germanwatch.org/kri) von Germanwatch e.V.</span>](images/klima-risiko-index_2020_top10.png){style="width: 100%;"}
+![<span style="font-size: 80%;">[Deutschland auf Platz 3](https://germanwatch.org/de/17330) im [Klima-Risiko-Index (KRI)](https://germanwatch.org/de/kri) von Germanwatch e.V.</span>](images/klima-risiko-index_2020_top10.png){style="width: 100%;"}
 
 </center>
 
 <div class="notes">
 
-- 
+- Der jährlich erscheinende Klima-Risiko-Index der NGO Germanwatch vergleicht
+  wetterbedingte Schadensereignisse (Stürme, Überschwemmungen, Hitzewellen etc.)
+  und ihre Auswirkungen auf die Staaten der Welt.
+- Untersucht werden die menschlichen Auswirkungen (Todesopfer) sowie die direkten
+  ökonomischen Verluste. Japan, die Philippinen und Deutschland waren 2018 am
+  stärksten von Extremwetterereignissen betroffen. Im Zeitraum zwischen 1999 und
+  2018 waren Puerto Rico, Myanmar und Haiti die am stärksten betroffenen Länder.
 
 </div>
 
@@ -185,6 +249,94 @@ Nachher:
 
 - Knapp gesagt: Es wird trockener!
 - PDSI = Palmer Drought Severity Index
+- Severe drought: sc_PDSI_pm < −3
+- Bei ungebremstem Klimawandel ab Mitte des Jahrhunderts evtl. keine Landwirtschaft
+  in Südeuropa mehr möglich
+- Dürre könnte Landwirtschaft Ende des 21. Jh. weltweit bedrohen (bis auf Teile
+  der mittleren und hohen nördlichen Breiten) (Wang)
+- Sehr beunruhigend, da eine sehr große Bevölkerungszahl in den kommenden Jahrzehnten
+  in den USA, Südeuropa, Südostasien, Brasilien, Chile, Australien und dem Großteil
+  Afrikas ernsthaft darunter leiden würde
+- Die Trockenheit könnte bei der Berechnung des PDSI sogar noch unterschätzt werden,
+  da weitere Prozesse wie z.B. stärkere, aber dafür seltenere Regenfälle, nicht
+  enthalten sind
+
+<!--
+Future drying:
+> "[[..] Wang found general drying over most of the global land except part of the
+> northern mid- and high-latitudes during the non-growing season and warned a
+> world-wide agricultural drought by the late 21st century. Examining soil
+> moisture data from eight AR4 models, Sheffield and Wood found that global
+> soil moisture decreases in all of the models for all scenarios with a doubling
+> of both the spatial extent of severe soil moisture deficits and frequency of
+> short-term (4–6-month duration) droughts from the mid-20th century to the end
+> of the 21st century, while long-term (>12 months) droughts become three
+> times more common."
+-->
+
+<!--
+[...]
+This is very alarming because if the drying is anything resembling Figure 11,
+a very large population will be severely affected in the coming decades over the
+whole United States, southern Europe, South-east Asia, Brazil, Chile, Australia,
+and most of Africa. As alarming as Figure 11 shows, there may still be other
+processes that could cause additional drying over land under global warming that
+are not included in the PDSI calculation. For example, both thermodynamic
+arguments and climate model simulations suggest that precipitation may become
+more intense but less frequent (i.e., longer dry spells) under GHG-induced global
+warming. This may increase flash floods and runoff, but diminish soil moisture
+and increase the risk of agricultural drought.
+-->
+
+<!--
+[...]
+Coupled climate models used in the IPCC AR4 project increased aridity in the 21st
+century, with astriking pattern that suggests continued drying over most of Africa,
+southern Europe and the Middle East, most of Americas (except Alaska, northern Canada,
+Uruguay, and northeastern Argentina), Australia, and Southeast Asia. Some of these
+regions, such as the United States, have fortunately avoided prolonged droughts
+during the last 50 years mainly due to decadal variations in ENSO and other climate
+modes, but people living in these regions may see a switch to persistent severe
+droughts in the next 20–50 years, depending on how ENSO and other natural
+variability modulate the GHG-induced drying.
+-->
+
+<!--
+Current/previous drying in 20th century:
+> Since the middle 20th century, global aridity and drought areas have increased
+> substantially, mainly due to widespread drying since the 1970s over Africa,
+> southern Europe, East and South Asia, eastern Australia, and many parts of the
+> northern mid-high latitude. Although natural variations in ENSO, tropical
+> Atlantic SSTs, and Asian monsoons have played a large role in the recent drying,
+> the rapid warming since the late 1970s has increased atmospheric demand for
+> moisture and likely altered atmospheric circulation patterns (e.g., over
+> Africa and East Asia), both contributing to the recent drying over land.
+> Since a large part of the recent warming is attributed to human-induced GHG
+> increases, it can be concluded that human activities have contributed
+> significantly to the recent drying trend.
+-->
+
+<!--
+Reasons for drying:
+> "[...] soil moisture changes do not always match precipitation changes (Figure 10).
+> This demonstrates that one should not use total precipitation alone to measure
+> changes in aridity or drought, as done in many studies. Increased heavy
+> precipitation and reduced light to moderate rain can increase the runoff to
+> precipitation ratio, and increases in surface air temperature and radiative
+> heating can lead to higher atmospheric demand for moisture. These processes can
+> result in drier soils even if the precipitation amount increases."
+-->
+
+<!--
+Caveat:
+> We emphasize that quantitative interpretation of the PDSI values shown in
+> Figure 11 requires caution because many of the PDSI values, which are calibrated
+> to the 1950–1979 model climate, are well out of the range for the current climate,
+> based on which the PDSI was designed. Nevertheless, Figure 11, together with all
+> the other studies cited above, suggests that drought may become so widespread
+> and so severe in the coming decades that current drought indices may no longer
+> work properly in quantifying future drought.
+-->
 
 </div>
 
@@ -278,7 +430,7 @@ Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 <center>
 
-...wäre, wenn das ["Verursacherprinzip"](https://de.wikipedia.org/wiki/Verursacherprinzip) gelten würde. Wer verschmutzt, muss für die Konsequenzen aufkommen. Das würde Verschmutzung von vornherein unattraktiv machen.
+...wäre, wenn das ["Verursacherprinzip"](https://de.wikipedia.org/wiki/Verursacherprinzip) gelten würde. Wer Schäden verursacht, muss für die Konsequenzen aufkommen. Das würde helfen, Schäden von vornherein zu vermeiden.
 
 ![<span style="font-size: 70%;">[Justitia](https://www.flickr.com/photos/foto_db/19138839664), von [Tim Reckmann](https://www.flickr.com/photos/foto_db/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</span>](images/justitia_tim_reckmann.jpg){style="width: 70%;"}
 
@@ -339,12 +491,12 @@ Es passiert aber nichts... oder es dauert zu lange.
 <div class="notes">
 
 - Politik handelt nicht
-- Ist teils von schmutzigen Profiten beeinflusst (Lobbyismus)
+- Ist teils von schmutzigen Profiten beeinflusst (Lobbyismus/Korruption)
 - Wir können uns auch nicht auf private Unternehmen verlassen, da sie
   ökonomische Interessen verfolgen
 - (Selbst Audit-Unternehmen, Fairhandelsorganisationen, etc. können befangen sein)
 - Wir brauchen eine gemeinschaftliche, zivilgesellschaftliche, unabhängige Lösung
-- -> Ein "Commons"
+- $\rightarrow$ Ein "Commons"
 
 </div>
 
@@ -360,7 +512,12 @@ Wir Verbraucher sind ein "schlafender Riese"
 
 <div class="notes">
 
-- Macht der Konsumenten ist "schlafender Riese", braucht mehr Information/Transparenz
+- Macht der Konsumenten ist "schlafender Riese"
+- Konsumenten haben große Macht, können sie aber nicht nutzen, da sie nicht
+  koordiniert handeln
+- Machtgefälle zwischen Konzernen und Konsumenten, Grund: (teilweise beabsichtigtes)
+  Informationsdefizit, Verzerrung durch Werbung
+- Braucht mehr Information/Transparenz
 - Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
   zwingt, die externen Kosten zu bezahlen (z.B. über eine alternative Währung)
 - Drei Schritte:
@@ -371,6 +528,12 @@ Wir Verbraucher sind ein "schlafender Riese"
 </div>
 
 ## Die Transparenzplattform: "Viridian"
+
+<div style="float: right; width: 40%;">
+
+![](images/viridian_logo_with_text.png){style="width: 100%;"}
+
+</div>
 
 - Ein **"Commons"** wie Wikipedia
 - **Unabhängig** von politischen oder ökonomischen Interessen
@@ -384,6 +547,12 @@ Wir Verbraucher sind ein "schlafender Riese"
 - **Schutz** vor Sybil-Attacken durch Identitätscheck ("Permissioned Blockchain")
 
 ## Die Transparenzplattform: "Viridian"
+
+<div style="float: right; width: 40%;">
+
+![](images/database_schema_graph_cutout.png){style="width: 100%;"}
+
+</div>
 
 - **Bündelung** sämtlicher Informationen: Berechnung ext. Kosten, LCA, CSR, NGO-Studien,
   Investigativ-Berichte, Gerichtsurteile, Siegel, Whistleblower, ...
