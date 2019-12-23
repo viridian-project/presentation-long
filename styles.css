@@ -23,5 +23,10 @@ h2 {
 }
 
 slides > slide > hgroup + article {
-    margin-top: 10px;
+    margin-top: 20px;
+}
+
+/* Note font was too large: */
+.note {
+  font-size: 80%;
 }
