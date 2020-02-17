@@ -23,10 +23,41 @@ h2 {
 }
 
 slides > slide > hgroup + article {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 /* Note font was too large: */
 .note {
   font-size: 80%;
+}
+
+.vcenter-nosubtitle {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 0; */
+}
+
+.vcenter-subtitle {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 0; */
+}
+
+.source-info {
+  font-size: 60%;
+}
+
+.caption {
+  font-size: 80%;
+}
+
+.subtitle {
+  font-size: 70%;
+  color: gray;
 }

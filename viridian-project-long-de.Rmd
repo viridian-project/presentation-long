@@ -17,11 +17,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Wirtschaft ist Lebensgrundlage...
+## Wirtschaft ist Lebensgrundlage... {.vcenter-nosubtitle}
 
 <center>
 
-![[<span style="font-size: 70%;">Foto von Renate Vanaga auf Unsplash (Ausschnitt)</span>](https://unsplash.com/photos/2pV2LwPVP9A)](images/renate-vanaga-2pV2LwPVP9A-unsplash.jpg){style="height: 400px;"}
+![<span class="source-info">Foto von Renate Vanaga auf Unsplash (Ausschnitt), [Link](https://unsplash.com/photos/2pV2LwPVP9A)</span>](images/renate-vanaga-2pV2LwPVP9A-unsplash.jpg){style="height: 400px;"}
 
 </center>
 
@@ -31,29 +31,35 @@ Wirtschaft (insbes. Landwirtschaft) ist lebensnotwendig, ernährt uns, schafft W
 
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Überschreitung der planetaren Grenzen</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Überschreitung der planetaren Grenzen</span>
 
 <center>
 
-![<span style="font-size: 70%;">"Beyond the boundary", Fig. 1 aus dem Nature-Artikel ["A safe operating space for humanity"](https://www.nature.com/articles/461472a) (Rockström et al. 2009) </span>](images/Rockström_et_al_2009_Nature_safe_operating_space_for_humanity.jpg){style="width: 65%;"}
+![<span class="source-info">"Beyond the boundary", Fig. 1 aus dem Nature-Artikel ["A safe operating space for humanity"](https://www.nature.com/articles/461472a) (Rockström et al. 2009) </span>](images/Rockström_et_al_2009_Nature_safe_operating_space_for_humanity.jpg){style="width: 65%;"}
 
 </center>
 
 <div class="notes">
+<div style="font-size: 90%;">
 
-Es werden in neun (zehn) miteinander verbundenen Systemen planetare (biophysikalische)
-Grenzen definiert, deren Überschreiten katastrophale Konsequenzen haben könnte.
+**10 planetare Grenzen, 3 bereits überschritten, bei 4 nah dran, bei 2 noch nicht genug bekannt. Nur 1 OK.**
 
-Bei drei der zehn Systeme hat die Menschheit den sicheren Bereich bereits
-überschritten: **Klimawandel** (aktuell mit 410 ppm CO$_2$ 17% oberhalb der Grenze
-von 350 ppm, 46% über prä-industriellem Wert von 280 ppm),
-**Verlust der Artenvielfalt** (mehr als 10-fach über der Grenze, >100 anstatt
-10 species per million species per year) und Eingriff in den **Stickstoffkreislauf**
-(mit 121 Mio. t/a aus der Atm. entferntem N$_2$ Faktor 3,5 über der Grenze von 35 Mio t/a).
+**Es folgen 6 Folien mit Beispielen, wo Wirtschaft Probleme verursacht, danach geht es um Lösungen.**
 
-Bei vier weiteren -- **Süßwasserverbrauch**, **Landnutzungsänderung**,
-**Ozeanversäuerung** und Eingriff in den **Phosphorkreislauf** -- steht ein Überschreiten
-der Grenze möglicherweise bald bevor.
+--
+
+- In 10 miteinander verbundenen Systemen: planetare (biophysikalische)
+  Grenzen, deren Überschreiten katastrophale Konsequenzen haben könnte.
+- Bei 3 der 10 Systeme wurde sicherer Bereich schon überschritten:
+    - **Verlust der Artenvielfalt** (mehr als 10-fach über der Grenze, >100
+    anstatt 10 species per million species per year)
+    - Eingriff in den **Stickstoffkreislauf**
+    (mit 121 Mio. t/a aus der Atm. entferntem N$_2$ Faktor 3,5 über der Grenze von 35 Mio t/a)
+    - **Klimawandel** (aktuell mit 410 ppm CO$_2$ 17% oberhalb der Grenze von 350 ppm,
+    46% über prä-industriellem Wert von 280 ppm)
+- Bei 4 weiteren -- **Süßwasserverbrauch**, **Landnutzungsänderung**,
+  **Ozeanversäuerung** und Eingriff in den **Phosphorkreislauf** -- steht
+  Überschreiten der Grenze möglicherweise bald bevor.
 
 <!--
 410 ppm / 350 ppm = 1.17
@@ -66,27 +72,41 @@ Landing page: https://www.stockholmresilience.org/planetary-boundaries
 -->
 
 </div>
+</div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Zerstörung/Verschmutzung</span> {.vcenter-subtitle}
 
 <center>
 
 <div style="width: 48%; float: left;">
 
-![[<span style="font-size: 80%;">Grasberg-Mine, </span><span style="font-size: 70%;">Alfindra Primaldhi (2007), CC BY 2.0</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
+![[<span class="caption">Grasberg-Mine in Indonesien (Papua)</span>](https://en.wikipedia.org/wiki/File:Grasberg_mine.jpg)<br><span class="source-info">Alfindra Primaldhi (2007), CC BY 2.0</span>](images/Grasberg_mine.jpg){style="width: 100%;"}
+
+Mind. 130 km$^2$ verseucht
 
 </div>
 
 <div style="width: 48%; float: right;">
 
-![[<span style="font-size: 80%;">Tagebau Hambach, </span><span style="font-size: 70%;">vom Aussichtspunkt Elsdorf-Angelsdorf gesehen, Johannes Fasolt (2006), gemeinfrei</span>](https://commons.wikimedia.org/wiki/File:Surface_Mining_Hambach_200800806.jpg)</span>](images/Surface_Mining_Hambach_200800806.jpg){style="width: 100%;"}
+![[<span class="caption">Tagebau Hambach (Rheinland)</span>](https://commons.wikimedia.org/wiki/File:Surface_Mining_Hambach_200800806.jpg)<br><span class="source-info">vom Aussichtspunkt Elsdorf-Angelsdorf gesehen, Johannes Fasolt (2006), gemeinfrei</span>](images/Surface_Mining_Hambach_200800806.jpg){style="width: 100%;"}
+
+Mehr als 15 Mrd. € pro Jahr gesellschaftliche Kosten
 
 </div>
 
 </center>
 
 <div class="notes">
-<div style="font-size: 90%;">
+<div style="font-size: 70%;">
+
+**Grasberg-Mine in Indonesien: eine der größten Gold- und Kupferminen, giftige
+Abwässer werden in Fluss entsorgt. Folge: unschlagbar günstiges Gold/Kupfer und
+verseuchte, tote Fläche von mind. 130 km$^2$ (ca. die Fläche Jerusalems).**
+
+**Braunkohleverstromung: Landschaftszerstörung, enorme CO$_2$-Emissionen (4 der 5
+dreckigsten KW der EU in D), giftige Schwermetalle (Quecksilber, Blei, Arsen).
+Gesellsch. Kosten der Braunkohle mehr als 15 Mrd. € pro Jahr, zum Vergleich
+Erlöse von ca. 4,5 Mrd. € pro Jahr aus dem Verkauf des Stroms.**
 
 - Grasberg-Mine ([1](https://en.wikipedia.org/wiki/Grasberg_mine), [2](https://de.wikipedia.org/wiki/Grasberg-Mine)): größte Gold- und
   zweitgrößte Kupfermine der Welt in Papua, Indonesien. Hat die weltweit
@@ -104,15 +124,17 @@ Landing page: https://www.stockholmresilience.org/planetary-boundaries
   ([Quelle](https://www.nytimes.com/2005/12/27/world/asia/below-a-mountain-of-wealth-a-river-of-waste.html)).
   Mindestens 130 km$^2$ Fläche verseucht
   ([Quelle](https://web.archive.org/web/20090219085455/http://www.natural-resources.org/minerals/cd/docs/mmsd/topics/068c_mftf-j.pdf)).
-  <!-- Hierfür gibt es auf der dt. Wikipedia keine QUelle:
+  <!-- Hierfür gibt es auf der dt. Wikipedia keine Quelle:
   Ausmaß des Schadens kaum bekannt, da niemand auf das Gelände gelassen wird.
   Luftaufnahmen zeigen betongraue Fläche ohne Vegetation.
   -->
 - Braunkohle-Tagebau: Nutzung der Braunkohle v.a. für Verstromung.
   [Laut Daten der EU-Kommission](https://www.sueddeutsche.de/wirtschaft/studie-deutsche-kraftwerke-gehoeren-zu-den-schmutzigsten-in-ganz-europa-1.2930237)
   stehen 4 der 5 KWs in der EU mit dem höchsten CO$_2$-Ausstoß in Deutschland:
-  Plätze 2 bis 5. Über 5000 ha (Hambach, gesamt?) in
-  Anspruch genommene Fläche (Landschaft und Ortschaften unwiederbringlich verloren).
+  Plätze 2 bis 5. Über 5000 ha (Hambach), [insgesamt über 2300 km^2](https://de.wikipedia.org/wiki/Braunkohlebergbau)
+  (Stand 2006, muss heute mehr sein) in Anspruch genommene Fläche, das entspricht
+  nahezu der Fläche des Saarlandes (Landschaft und mehr als 300 Siedlungen
+  unwiederbringlich verloren, ca. 100.000 Menschen umgesiedelt).
   Laut UBA: Ausstoß dt. Kraftwerke 2013: 5 t Quecksilber, 1500 kg Blei, 1200 kg Arsen,
   700 kg Cadmium
   ([Quelle](https://www.sueddeutsche.de/wissen/umweltgifte-kohlekraftwerke-stossen-tonnenweise-giftiges-quecksilber-aus-1.2804683)).
@@ -130,11 +152,19 @@ Landing page: https://www.stockholmresilience.org/planetary-boundaries
   -->
 - Gesellschaftliche Kosten der Braunkohle im Jahr 2015 mehr als 15 Mrd. €
   [Wronski und Fiedler 2015](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/kosten-braunkohle-foes-greenpeace-20151110_0.pdf)
+- Stromerzeugung aus Braunkohle: [ca. 150 Mrd. kWh/a](https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Energie/Erzeugung/Tabellen/bruttostromerzeugung.html)
+  (150 TWh/a), Strompreis an Börse ca. 0.03 €/kWh ([1](https://www.bhkw-infozentrum.de/bhkw-news/27666_Durchschnittlicher-Strompreis-an-der-Boerse-faellt-auf-unter-3-Cent-je-Kilowattstunde.html),
+  [2](https://de.wikipedia.org/wiki/Strompreis)), ergibt ca. 4,5 Mrd. € Erlöse, denen 15 Mrd. € Kosten
+  gegenüberstehen
+<!-- > 150e9 * 0.03 -->
+<!-- [1] 4.5e+09 -->
 
 </div>
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+<!--
+
+## ...aber verursacht auch viele Probleme <span class="subtitle">Zerstörung/Verschmutzung</span>
 
 <center>
 
@@ -142,7 +172,7 @@ Landing page: https://www.stockholmresilience.org/planetary-boundaries
 
 Vorher:
 
-![<span style="font-size: 70%;">Pristine Canadian boreal forest photographed by [...] Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-11.jpg){style="width: 100%;"}
+![<span class="caption">Kanadischer Wald</span><br><span class="source-info">Pristine Canadian boreal forest photographed by [...] Garth Lenz (Ausschnitt), <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-11_mod.jpg){style="width: 100%;"}
 
 </div>
 
@@ -150,63 +180,80 @@ Vorher:
 
 Nachher:
 
-![<span style="font-size: 80%;">Ölsandabbau:</span> <span style="font-size: 70%;">Tar sands mining region in the Canadian boreal forest photographed by Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-7142.jpg){style="width: 100%;"}
+![<span class="caption">Ölsandabbau</span><br><span class="source-info">Tar sands mining region in the Canadian boreal forest photographed by Garth Lenz, <a href="https://www.cooldavis.org/2012/12/19/the-true-cost-of-oil-images-of-beauty-and-devastation/">Cool Davis</a>, <a href="https://creativecommons.org/licenses/by-nc/3.0/" title="Creative Commons Attribution-NonCommercial 3.0 Unported">CC BY-NC 3.0</a></span>](images/Garth_Lenz-7142.jpg){style="width: 100%;"}
 
 </div>
 
 </center>
 
 <div class="notes">
-<div style="font-size: 90%;">
 
-- 
+- XXX TODO: Nur EINE zentrale Aussage herausstellen
 
 </div>
-</div>
+
+-->
 
 <!--
 
-  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+  ## ...aber verursacht auch viele Probleme <span class="subtitle">Zerstörung/Verschmutzung</span>
   
   <center>
   
-  ![[<span style="font-size: 80%;">Albian Pit, Muskeg river open pit bitumen mine, Fort McKay (Louis Helbig)</span>](https://www.theguardian.com/environment/gallery/2015/aug/03/canadas-tar-sands-landscape-from-the-air-in-pictures#img-3)](images/oil_sands.jpg){style="width: 80%;"}
+  ![[<span class="caption">Albian Pit, Muskeg river open pit bitumen mine, Fort McKay (Louis Helbig)</span>](https://www.theguardian.com/environment/gallery/2015/aug/03/canadas-tar-sands-landscape-from-the-air-in-pictures#img-3)](images/oil_sands.jpg){style="width: 80%;"}
   
   </center>
   
-  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Zerstörung/Verschmutzung</span>
+  ## ...aber verursacht auch viele Probleme <span class="subtitle">Zerstörung/Verschmutzung</span>
   
   <center>
   
-  ![[<span style="font-size: 70%;">A swath of boreal forest is stripped away to reveal the bitumen-laced ground at the Fort Hills Suncor oil sands site near Fort McKay, Alberta (Ian Willms)</span>](https://www.nationalgeographic.com/environment/2019/04/alberta-canadas-tar-sands-is-growing-but-indigenous-people-fight-back/#)](https://www.nationalgeographic.com/content/dam/environment/2019/04/oil-sands-canada/15-oil-sands-canada.adapt.1900.1.jpg){style="width: 80%;"}
+  ![[<span class="source-info">A swath of boreal forest is stripped away to reveal the bitumen-laced ground at the Fort Hills Suncor oil sands site near Fort McKay, Alberta (Ian Willms)</span>](https://www.nationalgeographic.com/environment/2019/04/alberta-canadas-tar-sands-is-growing-but-indigenous-people-fight-back/#)](https://www.nationalgeographic.com/content/dam/environment/2019/04/oil-sands-canada/15-oil-sands-canada.adapt.1900.1.jpg){style="width: 80%;"}
   
   </center>
 
 -->
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Klimakrise</span> {.vcenter-subtitle}
 
 <center>
 
-![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/58003213@N00">Cayobo</a> from Key West, The Conch Republic - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cayobo/48667030183/">Hurricane Dorian Eye</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=81889943">Link</a>](images/Dorian_2019-09-02_1522Z_(Hurricane_Eye).jpg){style="width: 80%;"}
+<div style="width: 48%; float: left;">
+
+![<span class="caption">Das Auge des Hurricane Dorian (September 2019)</span><br><span class="source-info">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/58003213@N00">Cayobo</a> from Key West, The Conch Republic - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cayobo/48667030183/">Hurricane Dorian Eye</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=81889943">Link</a>](images/Dorian_2019-09-02_1522Z_(Hurricane_Eye).jpg){style="width: 100%;"}
+
+Zunahme von Stürmen XXX
+
+</div>
+
+<div style="width: 48%; float: right;">
+
+![<span class="caption">"Superstorm Sandy"</span><br><span class="source-info">Von sonora, [Superstorm Sandy](https://amazonsday.blogspot.com/2015/03/blog-post_16.html), [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)](images/024737-superstorm-sandy.jpg){style="width: 100%;"}
+
+Schäden allein durch Dorian XXX Mrd. US-$.
+
+</div>
 
 </center>
 
 <div class="notes">
 <div style="font-size: 90%;">
 
-- 
+**Schwere Stürme wie Hurricane Dorian (2019) werden immer häufiger und stärker.
+(XXX: Zahlen?)
+Verursachte Schäden enorm (ganze Häuser weggerissen, Städte verwüstet).
+Schäden allein durch Dorian: ca. XXX Mrd. USD.**
 
 </div>
 </div>
 
 <!--
 
-  ## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+  ## ...aber verursacht auch viele Probleme <span class="subtitle">Klimakrise</span>
   
   <center>
   
-  ![<span style="font-size: 70%;">"Anatomie einer Katastrophe -- Was die Klimakrise wirklich bedeutet", [Süddeutsche Zeitung (Sabrina Ebitsch u.a., 2019)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_19_data_background_image_desktopw2880h2880q70-7f648d7643d1cdff.jpg){style="width: 70%;"}
+  ![<span class="source-info">"Anatomie einer Katastrophe -- Was die Klimakrise wirklich bedeutet", [Süddeutsche Zeitung (Sabrina Ebitsch u.a., 2019)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/)](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_19_data_background_image_desktopw2880h2880q70-7f648d7643d1cdff.jpg){style="width: 70%;"}
   
   <!-- Auch möglich: Sommer 2019, "In Brasilien stand das Amazonasgebiet in Flammen, Hunderttausende Hektar Wald und Weiden verbrannten."
   https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/_modules_22_data_background_image_desktopw2880h2880q70-ec37300df1f5b193.jpg
@@ -216,31 +263,20 @@ Nachher:
 
 -->
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Klimakrise (auch hier bei uns!)</span>
+
+<!-- Diese Folie ggf. weglassen -->
 
 <center>
 
-![<span style="font-size: 70%;">["Superstorm Sandy"](https://amazonsday.blogspot.com/2015/03/blog-post_16.html), von sonora, [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)](images/024737-superstorm-sandy.jpg)
+![<span class="caption">[Deutschland auf Platz 3](https://germanwatch.org/de/17330) im [Klima-Risiko-Index (KRI)](https://germanwatch.org/de/kri) von Germanwatch e.V.</span>](images/klima-risiko-index_2020_top10.png){style="width: 100%;"}
 
 </center>
 
 <div class="notes">
-<div style="font-size: 90%;">
 
-- 
-
-</div>
-</div>
-
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise (auch hier bei uns!)</span>
-
-<center>
-
-![<span style="font-size: 80%;">[Deutschland auf Platz 3](https://germanwatch.org/de/17330) im [Klima-Risiko-Index (KRI)](https://germanwatch.org/de/kri) von Germanwatch e.V.</span>](images/klima-risiko-index_2020_top10.png){style="width: 100%;"}
-
-</center>
-
-<div class="notes">
+**Deutschland auf Platz 3 im Klima-Risiko-Index der NGO Germanwatch. Die auf die
+Einwohnerzahl bezogene Todesrate ist in Deutschland am größten.**
 
 - Der jährlich erscheinende Klima-Risiko-Index der NGO Germanwatch vergleicht
   wetterbedingte Schadensereignisse (Stürme, Überschwemmungen, Hitzewellen etc.)
@@ -252,19 +288,33 @@ Nachher:
 
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Klimakrise</span>
+<!--
+
+## ...aber verursacht auch viele Probleme <span class="subtitle">Klimakrise</span>
+
+-->
+
+<!-- Diese Folie ggf. weglassen -->
+
+<!--
+
+<div style="margin-top: -20px;"></div>
 
 > "Climate models project increased aridity in the 21<sup>st</sup> century over most of Africa,
-> southern Europe and the Middle East [...]"
-> <span style="font-size: 70%;">Aiguo Dai (2010): "Drought under Global Warming"</span>
+> southern Europe and the Middle East, [...]"
+> <span class="source-info">Aiguo Dai (2010): "Drought under Global Warming"</span>
+
+-->
 
 <!-- , most of the Americas, Australia, and Southeast Asia. -->
 
 <!-- WIREs Clim Change, 2011, 2, 45--65 -->
 
-<center>
-
 <!-- Prognose für Dürre, z.B. aus Lietaer: PDSI (Palmer Drought Severity Index), Aiguo Dai: "Drought under Global Warming: A Review" -->
+
+<!--
+
+<center>
 
 ![](images/Dai_drought.jpg){style="width: 100%;"}
 
@@ -272,11 +322,13 @@ Nachher:
 
 <div class="notes">
 
-- Knapp gesagt: Es wird trockener!
+**Bei ungebremstem Klimawandel ab Mitte des Jahrhunderts evtl. keine Landwirtschaft
+in Südeuropa mehr möglich. "Schwere Dürre" bei weniger als −3 auf der PDSI-Skala.
+Vorhergesagte Werte liegen teils weit unterhalb.**
+
 - PDSI = Palmer Drought Severity Index
-- Severe drought: sc_PDSI_pm < −3
-- Bei ungebremstem Klimawandel ab Mitte des Jahrhunderts evtl. keine Landwirtschaft
-  in Südeuropa mehr möglich
+- Severe drought: sc_PDSI_pm < −3 (Skala evtl. gar nicht mehr nutzbar bei Werten
+  weit unter −3)
 - Dürre könnte Landwirtschaft Ende des 21. Jh. weltweit bedrohen (bis auf Teile
   der mittleren und hohen nördlichen Breiten) (Wang)
 - Sehr beunruhigend, da eine sehr große Bevölkerungszahl in den kommenden Jahrzehnten
@@ -285,6 +337,8 @@ Nachher:
 - Die Trockenheit könnte bei der Berechnung des PDSI sogar noch unterschätzt werden,
   da weitere Prozesse wie z.B. stärkere, aber dafür seltenere Regenfälle, nicht
   enthalten sind
+
+-->
 
 <!--
 Future drying:
@@ -363,65 +417,76 @@ Caveat:
 > work properly in quantifying future drought.
 -->
 
+<!--
 </div>
+-->
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Miserable Arbeitsbedingungen</span> {.vcenter-subtitle}
 
 <center>
 
-![<span style="font-size: 70%;">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/40831205@N02">rijans</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/40831205@N02/8731789941">Dhaka Savar Building Collapse</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26051590">Link</a>](images/Dhaka_Savar_Building_Collapse.jpg){style="width: 80%;"}
+<div style="width: 48%; float: left;">
+
+![<span class="caption">Einsturz einer Textilfabrik in Bangladesch (XXX 2011)</span><br><span class="source-info">Von <a rel="nofollow" class="external text" href="https://www.flickr.com/people/40831205@N02">rijans</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/40831205@N02/8731789941">Dhaka Savar Building Collapse</a> (Ausschnitt), <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26051590">Link</a>](images/Dhaka_Savar_Building_Collapse_cut.jpg){style="width: 100%;"}
+
+</div>
+
+<div style="width: 48%; float: right;">
+
+![<span class="caption">Einsturz einer Textilfabrik in Bangladesch (XXX 2011)</span><br><span class="source-info">["PER NON DIMENTICARE"](http://www.scuolesenzapermesso.org/a-un-anno-dalla-tragedia-di-rana-plaza-in-cui-perirono-1127-persone-per-non-dimenticare/) ("Um nicht zu vergessen -- Ein Jahr nach der Tragödie von Rana Plaza"), von scuolabinari, modifiziert, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US)](images/Rana-Plaza-4.jpg){style="width: 100%;"}
+
+</div>
+
+</center>
+
+<center>
+
+XXX Menschen ums Leben gekommen,<br>XXX verletzt (z.B. Gliedmaßen verloren).
 
 </center>
 
 <div class="notes">
 <div style="font-size: 90%;">
 
-- 
+- XXX TODO: Nur EINE zentrale Aussage herausstellen
 
 </div>
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Miserable Arbeitsbedingungen</span>
 
 <center>
 
-![<span style="font-size: 70%;">["PER NON DIMENTICARE"](http://www.scuolesenzapermesso.org/a-un-anno-dalla-tragedia-di-rana-plaza-in-cui-perirono-1127-persone-per-non-dimenticare/) ("Um nicht zu vergessen -- Ein Jahr nach der Tragödie von Rana Plaza"), von scuolabinari, modifiziert, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US)](images/Rana-Plaza-4.jpg){style="width: 90%;"}
+XXX TODO: Folie zu alltäglichen Arbeits- und Menschenrechtsverletzungen mit Daten aus dem Slavery Index o.ä.
 
 </center>
 
 <div class="notes">
 
-- Fakt 1 zu Rana Plaza
-- Fakt 2 zu Rana Plaza
-
-</div>
-
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Miserable Arbeitsbedingungen</span>
-
-<center>
-
-Brand bei Ali Enterprises, z.B. aus Fallbeispiel von lieferkettengesetz.de
-
-</center>
-
-<div class="notes">
+<!-- XXX TODO: Nur EINE zentrale Aussage herausstellen -->
 
 - Fakt 1 zu Ali Enterprises
 - Fakt 2 zu Ali Enterprises
 
 </div>
 
-## ...aber verursacht auch viele Probleme <span style="font-size: 70%; color: gray;">Tierhaltung: Nitratbelastung und multiresistente Keime</span>
+## ...aber verursacht auch viele Probleme <span class="subtitle">Tierhaltung: Nitratbelastung und multiresistente Keime</span>
 
 <center>
 
-![<span style="font-size: 70%;">Bild von <a href="https://pixabay.com/de/users/Myriams-Fotos-1627417/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Myriam Zilles</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Pixabay</a></span>](images/gullefa-1302596_1280.jpg){style="width: 80%"}
+![<span class="source-info">Bild von <a href="https://pixabay.com/de/users/Myriams-Fotos-1627417/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Myriam Zilles</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302596">Pixabay</a></span>](images/gullefa-1302596_1280.jpg){style="width: 80%"}
+
+Jährlich über 10 Mrd. € Folgekosten
 
 </center>
 
 <div class="notes">
 
 Beispiel aus näherer Umgebung:
+
+**Gesellschaftliche Folgekosten durch Tierhaltung in Deutschland: jährlich
+über 10 Mrd. Euro (allein durch Antibiotikaresistenzen und Stickstoffdüngung).
+Fehlt: Bodenabbau, Regenwaldvernichtung, Biodiversität, Klima**
 
 - Gesellschaftliche Folgekosten durch die Tierhaltung in Deutschland: allein
   durch Antibiotikaresistenzen und Stickstoffdüngung jährlich über 10 Mrd. Euro
@@ -439,14 +504,19 @@ Beispiel aus näherer Umgebung:
 
 <center>
 
-![<span style="font-size: 70%;">Photo by [Robert Anasch](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</span>](images/robert-anasch-JjriqriwikE-unsplash.jpg){style="width: 80%;"}
+![<span class="source-info">Photo by [Robert Anasch](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@diesektion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</span>](images/robert-anasch-JjriqriwikE-unsplash.jpg){style="width: 80%;"}
+
+Ausbeutung schafft Wettbewerbsvorteile<br>Kosten tragen andere
 
 </center>
 
 <div class="notes">
 
-Durch Unternehmen, die wenig Verantwortung tragen müssen.
+**Kosten senken = Profite maximieren. Je rücksichtsloser, umso geringer die Kosten,
+umso höher der Profit. Rücksichtslosigkeit schafft Wettbewerbsvorteil, es gibt
+also einen Anreiz für Ausbeutung.**
 
+- Weil Unternehmen wenig Verantwortung tragen müssen
 - Je rücksichtsloser die Ausbeutung, umso größer der Profit (Rücksichtslosigkeit
   spart Kosten $\rightarrow$ Gewinnspanne größer)
 - Ausbeutung von Mensch und Natur
@@ -465,7 +535,7 @@ Durch Unternehmen, die wenig Verantwortung tragen müssen.
 
 ...wäre, wenn das ["Verursacherprinzip"](https://de.wikipedia.org/wiki/Verursacherprinzip) gelten würde. Wer Schäden verursacht, muss für die Konsequenzen aufkommen. Das würde helfen, Schäden von vornherein zu vermeiden.
 
-![<span style="font-size: 70%;">[Justitia](https://www.flickr.com/photos/foto_db/19138839664), von [Tim Reckmann](https://www.flickr.com/photos/foto_db/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</span>](images/justitia_tim_reckmann.jpg){style="width: 70%;"}
+![<span class="source-info">[Justitia](https://www.flickr.com/photos/foto_db/19138839664), von [Tim Reckmann](https://www.flickr.com/photos/foto_db/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</span>](images/justitia_tim_reckmann.jpg){style="width: 70%;"}
 
 $\rightarrow$ Externalisierte Kosten einpreisen!
 
@@ -483,6 +553,8 @@ $\rightarrow$ Externalisierte Kosten einpreisen!
 
 </div>
 
+<!-- XXX TODO: Neue Folie mit Zitaten berühmter Personen, die Internalisierung externer Kosten fordern (Weizsäcker, Herman Daly, Andrew McAfee, Vandana Shiva, Nobelpreisträger etc.) -->
+
 ## Politik könnte eingreifen, aber...
 
 <div style="display: flex;">
@@ -490,10 +562,10 @@ $\rightarrow$ Externalisierte Kosten einpreisen!
 <div style="width: 30%; margin-right: 5%;">
 
 <!--
-![<span style="font-size: 70%;">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/angela_muede.jpg)
+![<span class="source-info">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/angela_muede.jpg)
 -->
 
-![<span style="font-size: 70%;">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/merkel_scham.jpg){style="width: 100%;"}
+![<span class="source-info">[Jacob Jung Blog](https://jacobjung.wordpress.com/2011/05/22/hilfe-mutti-dreht-durch-ich-glaub-ich-schreib-der-merkel-mal-was-auf/), [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.de)</span>](images/merkel_scham.jpg){style="width: 100%;"}
 
 <!-- Oder:
 https://jacobjung.wordpress.com/2011/07/22/angela-merkel-%E2%80%9Edeutschland-geht-es-so-gut-wie-lange-nicht%E2%80%9C/
@@ -503,7 +575,7 @@ https://jacobjung.wordpress.com/2011/07/22/angela-merkel-%E2%80%9Edeutschland-ge
 
 <div style="width: 30%; margin-right: 5%;">
 
-![<span style="font-size: 70%;">[A Quiet Walk](https://aquietwalk.com/2017/03/13/a-small-sad-little-man/), [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</span>](images/donald_trump65.jpg){style="width: 100%;"}
+![<span class="source-info">[A Quiet Walk](https://aquietwalk.com/2017/03/13/a-small-sad-little-man/), [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</span>](images/donald_trump65.jpg){style="width: 100%;"}
 
 </div>
 
@@ -539,11 +611,14 @@ Es passiert aber nichts... oder es dauert zu lange.
 
 Wir Verbraucher sind ein "schlafender Riese"
 
-![<span style="font-size: 70%;">Av <a href="https://en.wikipedia.org/wiki/nn:Theodor_Kittelsen" class="extiw" title="w:nn:Theodor Kittelsen">Theodor Kittelsen</a> – <a rel="nofollow" class="external free" href="http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html">http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html</a>, Offentlig eiendom, <a href="https://commons.wikimedia.org/w/index.php?curid=122555">Lenke</a></span>](images/Trollet_som_grunner_på_hvor_gammelt_det_er.jpg){style="width: 40%;"}
+![<span class="source-info">Av <a href="https://en.wikipedia.org/wiki/nn:Theodor_Kittelsen" class="extiw" title="w:nn:Theodor Kittelsen">Theodor Kittelsen</a> – <a rel="nofollow" class="external free" href="http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html">http://www2.skolenettet.no/kunstweb/bilde/galleri/kittelsen.html</a>, Offentlig eiendom, <a href="https://commons.wikimedia.org/w/index.php?curid=122555">Lenke</a></span>](images/Trollet_som_grunner_på_hvor_gammelt_det_er.jpg){style="width: 40%;"}
 
 </center>
 
 <div class="notes">
+
+**Machtgefälle zwischen Konzernen und Konsumenten (Informationsdefizit, Verzerrung durch Werbung).
+Mehr Information/Transparenz nötig.**
 
 - Macht der Konsumenten ist "schlafender Riese"
 - Konsumenten haben große Macht, können sie aber nicht nutzen, da sie nicht
@@ -551,12 +626,31 @@ Wir Verbraucher sind ein "schlafender Riese"
 - Machtgefälle zwischen Konzernen und Konsumenten, Grund: (teilweise beabsichtigtes)
   Informationsdefizit, Verzerrung durch Werbung
 - Braucht mehr Information/Transparenz
-- Wir können: Ein gemeinschaftlich getragenes System schaffen, das die Unternehmen
-  zwingt, die externen Kosten zu bezahlen (z.B. über eine alternative Währung)
-- Drei Schritte:
-  1. Transparenzplattform, auf der die Gemeinschaft bestimmt, welche Produkte gut oder schlecht sind
-  2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern)
-  3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert
+
+</div>
+
+## Den schlafenden Riesen wecken
+
+<div style="width: 48%; float: left;">
+
+Probleme:
+
+- Wettbewerbsvorteil durch Externalisierung
+- Informationsdefizit der Konsument*innen
+- Abhängigkeit der Politik von der Wirtschaft
+
+</div>
+
+<div style="width: 48%; float: right;">
+
+Lösung: Ein gemeinschaftlich getragenes System, das die Unternehmen zwingt, die
+externen Kosten zu bezahlen.
+
+Drei Schritte:
+
+1. Transparenzplattform, auf der die Gemeinschaft Produkte bewertet (wie hoch sind ext. Kosten?)
+2. Von Unterstützern getragener Ausgleichsfonds (ohne Beteiligung von Händlern möglich)
+3. Alternative Währung oder Bezahlsystem, das externe Kosten automatisch inkludiert (Handel muss mitmachen)
 
 </div>
 
@@ -569,15 +663,22 @@ Wir Verbraucher sind ein "schlafender Riese"
 </div>
 
 - Ein **"Commons"** wie Wikipedia
-- **Unabhängig** von politischen oder ökonomischen Interessen
-- Wird von keinem kontrolliert
-- Jede*r kann Informationen einsehen
-- Jede*r kann beitragen und bearbeiten
-<!-- - Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein -->
-- Über **Blockchain** dezentral organisiert und vor Manipulation geschützt
+  - **Unabhängig** von politischen oder ökonomischen Interessen
+  - Wird von keinem kontrolliert
+  - Jede*r kann Informationen einsehen
+  - Jede*r kann beitragen und bearbeiten
+- Dank **Blockchain**:
+  - Dezentral organisiert
+  - Vor Manipulation geschützt
 - Über **Peer-Review** und Reputationssystem vor unsachlichen Inhalten und Beeinflussung
   geschützt
 - **Schutz** vor Sybil-Attacken durch Identitätscheck ("Permissioned Blockchain")
+
+<div class="notes">
+
+- Das Wikpedia der Nachhaltigkeitsinfos: Wenn ich wissen will, wie nachhaltig/fair etwas produziert wurde, gucke ich rein
+
+</div>
 
 ## Die Transparenzplattform: "Viridian"
 
@@ -587,7 +688,7 @@ Wir Verbraucher sind ein "schlafender Riese"
 
 </div>
 
-- **Bündelung** sämtlicher Informationen: Berechnung ext. Kosten, LCA, CSR, NGO-Studien,
+- **Bündelung** sämtlicher Informationen: NGO-Studien, LCA, CSR, Berechnung ext. Kosten,
   Investigativ-Berichte, Gerichtsurteile, Siegel, Whistleblower, ...
 - **Teilnahme auf mehreren Ebenen:**
     - **Hoher Aufwand:** Information (mit Quellen) hinzufügen
@@ -610,6 +711,8 @@ Wir Verbraucher sind ein "schlafender Riese"
 ## So könnte es aussehen
 
 Bild/Video vom Mockup
+
+<!-- XXX TODO: Neue Folie zu nächsten Schritten nach der Transparenzplattform -->
 
 ## Schlussbemerkung
 
