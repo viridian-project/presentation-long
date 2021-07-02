@@ -654,6 +654,8 @@ Drei Schritte:
 
 </div>
 
+</div>
+
 ## Die Transparenzplattform: "Viridian"
 
 <div style="float: right; width: 40%;">
